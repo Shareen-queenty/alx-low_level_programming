@@ -19,7 +19,7 @@ printf("%d", a[j]);
 if (j != (n - 1))
 
 {
-printf(",");
+printf(" , ");
 }
 }
 printf("\n");
